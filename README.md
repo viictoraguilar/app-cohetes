@@ -9,7 +9,7 @@ arrancar proyecto con el comando gatsby develop
 
 Cuando recibí el problema a resolver me di cuenta que no había trajado con haciendo peticiones con graphql solamente con REST por lo cual documentandomente encontré que Gatsby que se usa trabajando con React es la solución más optima para realizar peticiones de este tipo.
 
-Trabajé una versión básica en create react app y está en Gatsby, en la versión de create react app implementé apollo client conectando con la api de Space X satisfactoriamente y en gatsby implementé el plugin de apollo client y también el de dato CMS para poder gestionar el contenido y general las tarjetas con la información que se recibiese de la API de spaceX quedando pendiente dicha conexión pero logrando satisfactoriamente hacer peticiones GraphQL
+Trabajé una versión básica en create react app https://github.com/viictoraguilar/app-beta-cohetes y está en Gatsby, en la versión de create react app implementé apollo client conectando con la api de Space X satisfactoriamente y en gatsby implementé el plugin de apollo client y también el de dato CMS para poder gestionar el contenido y general las tarjetas con la información que se recibiese de la API de spaceX quedando pendiente dicha conexión pero logrando satisfactoriamente hacer peticiones GraphQL
 
 # ¿Hay alguna mejora que pueda hacer en su envío?
 
